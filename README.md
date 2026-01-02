@@ -7,6 +7,23 @@ A React + TypeScript web application for tracking and analyzing investment portf
 
 ---
 
+## 🚀 Live Demo
+
+[Try the application here](https://stock-management-khushi.vercel.app/) - Interactive portfolio tracker with real-time updates
+
+## 📸 Screenshots
+
+### Dashboard Overview
+Main portfolio overview page showing total portfolio value, asset allocation, and recent activity.
+
+### Portfolio Composition
+Interactive pie/donut chart visualizing portfolio allocation across different stocks using Recharts.
+
+### Stock Management
+Add, edit, and manage stock holdings with form validation, responsive design, and real-time updates from Supabase.
+
+---
+
 ## 🌟 What This Project Does
 
 This application lets you:
